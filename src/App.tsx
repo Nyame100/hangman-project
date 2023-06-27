@@ -25,6 +25,7 @@ function App() {
       <HangmanDrawing />
       <HangmanWord />
       <Keyboard />
+      <h1>Hi</h1>
     </div>
   );
 }
